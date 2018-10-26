@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "216119580988",
+    "firebase_url": "https://praja-kalyan.firebaseio.com",
+    "project_id": "praja-kalyan",
+    "storage_bucket": "praja-kalyan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216119580988:android:8c138d3d6a4626ad",
+        "android_client_info": {
+          "package_name": "finalyear.kalyan.praja.abhii.prajakalyan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216119580988-gl717uchr1nsfpodqm48oadtivur7qmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "finalyear.kalyan.praja.abhii.prajakalyan",
+            "certificate_hash": "bea086c37990adae81c241524d765b107767d08d"
+          }
+        },
+        {
+          "client_id": "216119580988-aaol8m5f7ifjll15mq89us26jaelp4ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaxB5AjzqPDDwO2uQxlEJRCWzcylvPd4Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216119580988-aaol8m5f7ifjll15mq89us26jaelp4ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
